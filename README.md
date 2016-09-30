@@ -35,14 +35,6 @@ Função de Dados: Grupo de dados lógicamente relacionados reconhecido pelo usu
 
 Função de Transação: Menor unidade da tarefa solicitada pelo usuário, recolhecido pelo usuário, representando uma transação completa e que deixa o sistema em estado consistente. Possui os atributos de nome, classificacao (SE/CE/EE), lista de arquivos referênciados (ALI´s e AIE´s cadastrados no sistema) e lista de tipo de dados (dados presentes nos ALI´s e AIE´s que são reconhecidos pelo usuário e atravessam a fronteira da aplicação).
 
-##Relacionamento entre as Entidades:
-
-Um operador cadastra, edita e remove formulários;
-Um administrador cadastra, edita e remove operadores;
-Um administrador cadastra, edita e remove administradores;
-Um formulário possui subformulários;
-Um subformulário possui várias respostas;
-Um grupo possui vários formulários.
 
 ##Nome do grupo: 
 
