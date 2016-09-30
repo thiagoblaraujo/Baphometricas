@@ -31,8 +31,9 @@ Atributo: Informação atômica reconhecida ou não pelo usuário armazenada em 
 
 Projeto: Dados do projeto sendo contado. Possui os atributos de código do projeto, código do subprojeto, título, analista responsável, gestor/analista empresa contratante.
 
+Função de Dados: Grupo de dados lógicamente relacionados reconhecido pelo usuário do sistema (ALI/AIE). Possui os atributos de nome, classificação (ALI/AIE), lista de tipo de registros (Grupo de Entidades) e lista de tipo de dados (atributos das Entidades informadas que são recolhecidas pelo usuário no sistema sendo contado. 
 
-
+Função de Transação: 
 
 ##Relacionamento entre as Entidades:
 
