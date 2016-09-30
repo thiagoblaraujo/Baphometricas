@@ -11,7 +11,8 @@ O Baphométricas consiste de um sistema de informação para um empresa que pres
 ponto de função. Este sistema será feito para facilitar a contagem de ponto de função pela equipe de análise e desenvolvimento da empresa. Por exemplo, a equipe tem para cada projeto gerar uma planilha de contagem para o projeto em que está atuando, contudo devido a 
 imaturidade da equipe para estar utilizando a técnica de contagem, há divergências entre as contagens de um para outro analista ou mesmo entre duas contagens realizadas pelo mesmo analista. O sistema irá permitir o cadastro dos projetos e de sua contagem para manter um baseline, facilitando a consulta dos dados para novas contagens, além de automatizar o relatório de contagem em um formato aceito pelo contrato.
 
-Identificação das entidades e suas características
+##Identificação das entidades e suas características
+
 Usuário: Pessoa que irá utilizar o sistema. Possui atributos de nome e senha.
 
 Analista: Analista/Desenvolvedor que está realizando o projeto. Possui atributos de nome, login, senha e email.
@@ -26,7 +27,7 @@ Resposta: Entidade que registra as respostas a cada um dos itens do subformulár
 
 Grupo: Entidade que define os diferentes grupos existentes no sistema. Cada grupo possui somente um nome e um identificador.
 
-Relacionamento entre as Entidades
+##Relacionamento entre as Entidades
 
 Um operador cadastra, edita e remove formulários;
 Um administrador cadastra, edita e remove operadores;
