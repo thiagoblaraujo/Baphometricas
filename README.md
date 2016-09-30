@@ -33,7 +33,7 @@ Projeto: Dados do projeto sendo contado. Possui os atributos de código do proje
 
 Função de Dados: Grupo de dados lógicamente relacionados reconhecido pelo usuário do sistema (ALI/AIE). Possui os atributos de nome, classificação (ALI/AIE), lista de tipo de registros (Grupo de Entidades) e lista de tipo de dados (atributos das Entidades informadas que são recolhecidas pelo usuário no sistema sendo contado. 
 
-Função de Transação: 
+Função de Transação: Menor unidade da tarefa solicitada pelo usuário, recolhecido pelo usuário, representando uma transação completa e que deixa o sistema em estado consistente. Possui os atributos de nome, classificacao (SE/CE/EE), lista de arquivos referênciados (ALI´s e AIE´s cadastrados no sistema) e lista de tipo de dados (dados presentes nos ALI´s e AIE´s que são reconhecidos pelo usuário e atravessam a fronteira da aplicação).
 
 ##Relacionamento entre as Entidades:
 
