@@ -36,21 +36,21 @@
   "sistemas": [
     {
       "id": 1,
-      "idEmpresa: 1,
+      "idEmpresa": 1,
       "sigla": "PDT",
       "nome": "Sistema de Testes",
       "descricao": "O sistema PDT é um sistema ficticio para testar a aplicação front-end do SGPF."
     },
     {
       "id": 2,
-      "idEmpresa: 1,
+      "idEmpresa": 1,
       "sigla": "BPM",
       "nome": "Baphométricas",
       "descricao": "O sistema BPM é um sistema ficticio para testar a aplicação front-end do SGPF."
     },
     {
       "id": 3,
-      "idEmpresa: 2,
+      "idEmpresa": 2,
       "sigla": "STPS",
       "nome": "Sistema de Teste para SGPF",
       "descricao": "O sistema STPS é um sistema ficticio para testar a aplicação front-end do SGPF."
