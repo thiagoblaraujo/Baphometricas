@@ -1,0 +1,65 @@
+{
+  "analistas": [   
+    {
+      "id": 1,
+      "nome": "Thiago Araújo",
+      "telefone": "3314-3131",
+      "email": "thiago.lemos@pdcase.com.br"
+    },
+    {
+      "id": 2,
+      "nome": "Mychel Platini",
+      "telefone": "3314-0666",
+      "email": "mychel.platini@pdcase.com.br"
+    },
+    {
+      "id": 3,
+      "nome": "Igor Malta",
+      "telefone": "991897988",
+      "email": "mono.quemseimporta@pdcase.com.br"
+    }
+  ],
+  "empresas": [
+    {
+      "id": 1,
+      "cnpj": 38588043000102,
+      "nome": "Skynet",
+      "razaoSocial": "Skynet Terminator S.A."
+    },
+    {
+      "id": 2,
+      "cnpj": 18277683000194,
+      "nome": "IFES",
+      "razaoSocial": "Instituo Federal de Ciência e Tecnologia do Espirito Santo"
+    }
+  ],
+  "sistemas": [
+      id: number;
+    idEmpresa: number;
+    sigla:string;    
+    nome: string;
+    descricao: string;
+    {
+      "id": 1,
+      "idEmpresa: 1,
+      "sigla": "PDT",
+      "nome": "Sistema de Testes",
+      "descricao": "O sistema PDT é um sistema ficticio para testar a aplicação front-end do SGPF."
+    },
+    {
+      "id": 2,
+      "idEmpresa: 1,
+      "sigla": "BPM",
+      "nome": "Baphométricas",
+      "descricao": "O sistema BPM é um sistema ficticio para testar a aplicação front-end do SGPF."
+    },
+    {
+      "id": 3,
+      "idEmpresa: 2,
+      "sigla": "STPS",
+      "nome": "Sistema de Teste para SGPF",
+      "descricao": "O sistema STPS é um sistema ficticio para testar a aplicação front-end do SGPF."
+    }
+  ]
+  
+}
