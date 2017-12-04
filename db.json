@@ -34,11 +34,6 @@
     }
   ],
   "sistemas": [
-      id: number;
-    idEmpresa: number;
-    sigla:string;    
-    nome: string;
-    descricao: string;
     {
       "id": 1,
       "idEmpresa: 1,
