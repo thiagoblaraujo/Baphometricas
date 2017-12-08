@@ -63,8 +63,8 @@
       "idSistema'": 1,
       "idAnalista" : 1,
       "identificador": 120170286,
-      "titulo": "Projeto de Teste"
-      "descricao":"A solução baseia-se na realização dos testes necessários para a verificação das funcionalidades (front-end) do Sistema de Gestão de Pontos de Função."
+      "titulo": "Projeto de Teste",
+      "descricao":"A solução baseia-se na realização dos testes necessários para a verificação das funcionalidades (front-end) do Sistema de Gestão de Pontos de Função.",
       "tipo": 1,
       "finalizado": true
     }  
